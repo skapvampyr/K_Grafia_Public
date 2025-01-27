@@ -1,0 +1,46 @@
+cliente,OP,Escuadrón ,Tecnología,Solución,Marca,Modelo,SO,Número de serie,MAC,Hostname,IP ADMIN,IP SOC,IP HA,Data Center,Rack,Unidad,Soporte,Vigencia Licencia,Administración ,Mesa de servicio,Comentarios,End of Support Date,"Vigencia en dias
+EOL",Folio Cancelación
+Abilia,Op-113851,HYDRA,FIREWALL,FÍSICO,FORTINET,FortiGate 300D,v7.2.5 build1517 ,FG100FTK20017803,,FGT300DPS-BACKUP,,201.161.2.131:8443,,CLIENTE,,,,29/2/2024,DEDICADO,SOC,"En la MT aparecen los siguientes equipos 
+NS: FGT3HD3916806197 HostName: FGT300DPS-PRIME (Prado Sur)
+NS: FGT3HD3917801144 HostName: FGT300DPS-BACKUP",11/10/2023,-289,
+Abilia,Op-113851,HYDRA,FIREWALL,FÍSICO,FORTINET,FortiWiFi 60D,"v5.4.4,build1117 (GA)",FWF60D4Q16013527,,FWF60D_B6060,,189.240.64.186:6644,,CLIENTE,,,,5/6/2017,DEDICADO,SOC,"Se entrega el servicio a SOC con licenciamiento vencido, se coloca fecha de licencia de la MT.",8/5/2023,-445,
+Bulkmatic,Op-107910,ORIÓN,FIREWALL,FÍSICO,FORTINET,Fortigate 601E,FortiOs v6.4.11,FG6H1ETB20903207,,Fw_Bulkmatic_Corporativo_Mty_B,10.0.1.1:4433,,N/A,CLIENTE,N/A,N/A,,1/12/2023,DEDICADO,SPOK EXPERIENCE & EXPERTISE,No se localiza la MT.,No identificado,,
+Bulkmatic,Op-107910,ORIÓN,FIREWALL,FÍSICO,FORTINET,Fortigate 101F,FortiOs v6.4.11,FG101FTK20000837,,FW_BULKMATIC_SALINAS_MTY,10.0.4.1:4433,,N/A,CLIENTE,N/A,N/A,,17/12/2023,DEDICADO,SPOK EXPERIENCE & EXPERTISE,No se localiza la MT.,15/7/2026,719,
+Bulkmatic,Op-107910,ORIÓN,ANALYZER,FÍSICO,FORTINET,Fortianalizer 400E,FortiOs v6.4.3,FL-4HET320900053,,FAZ400E-BULKMATIC,10.0.1.10,,N/A,CLIENTE,N/A,N/A,,31/12/2023,DEDICADO,SPOK EXPERIENCE & EXPERTISE,No se localiza la MT.,14/7/2026,718,
+Grupo Zapata,Op-117022,FÉNIX,FIREWALL,FÍSICO,CHECKPOINT,Check Point 6600,R81.10,2026BA0689,00:1C:7F:A9:2B:27,FW01-Zapata,10.57.4.229,,,MEX1,Fase 3 Rack U4,33,,31/5/2025,DEDICADO,KUX FSO,,No identificado,,
+Grupo Zapata,Op-117022,FÉNIX,FIREWALL,FÍSICO,CHECKPOINT,Check Point 6600,R81.10,2023BA0827,00:1C:7F:A0:76:6D,FW02-Zapata,10.57.4.228,,,MEX1,Fase 3 Rack U4,31,,31/5/2025,DEDICADO,KUX FSO,,No identificado,,
+Grupo Zapata,Op-117022,FÉNIX,CONSOLA,FÍSICO,CHECKPOINT,Smart-1 410,R81.10,2018BA3873,,MGM-Zapata,10.57.4.231,,,MEX1,Fase 3 Rack U4,35,,31/5/2025,DEDICADO,KUX FSO,,1/9/2026,767,
+Procesar,Op-125930,ORIÓN,FIREWALL,FÍSICO,CHECKPOINT,Check Point 6700,Gaia R81.10 take 94,2152BA0086,00:1C:7F:BD:C3:7A  ,PCSG01C2Z001,10.50.93.1,172.19.28.33,10.50.93.1,MEX2,"Fase 5. Rack P, 75",32,27-feb-2027,27/2/2027,DEDICADO,KUX RTL,"FW Internet equipo Activo. Validar la unidad, en unestra BD se tiene Rack TelcoLineal O,75 y Unidad 36
+La unidad coincide con la información de la MT",TBD,,
+Procesar,Op-125930,ORIÓN,FIREWALL,FÍSICO,CHECKPOINT,Check Point 6700,Gaia R81.10 take 94,2152BA0076,00:1C:7F:BD:C3:E8 ,PCSG01C2Z002,10.50.93.2,172.19.28.34,10.50.93.2,MEX2,"Fase 5. Rack O, 75",32,27-feb-2027,27/2/2027,DEDICADO,KUX RTL,"FW Internet equipo pasivo. Validar rack, en nuestra BD tenemos  Telco1 P,75 unidad 36
+La unidad coincide con la información de la MT",TBD,,
+Procesar,Op-125930,ORIÓN,FIREWALL,FÍSICO,CHECKPOINT,Check Point 6700,Gaia R81.10 take 94,2152BA0025,00:1C:7F:BD:C8:CA,PCSG01C2Z003,10.50.93.3,,10.50.93.3,MEX2,"Fase 5. Rack P, 75",35,27-feb-2027,27/2/2027,DEDICADO,KUX RTL,"FW WAN Equipo Activo.
+Información de la MT: MEX2 Fase5 Telco1 O,75 UR 35 ",TBD,,
+Procesar,Op-125930,ORIÓN,FIREWALL,FÍSICO,CHECKPOINT,Check Point 6700,Gaia R81.10 take 94,2152BA0092,00:1C:7F:BD:CA:BE,PCSG01C2Z004,10.50.93.4,,10.50.93.4,MEX2,"Fase 5. Rack O, 75",35,27-feb-2027,27/2/2027,DEDICADO,KUX RTL,"FW WAN Equipo pasivo. 
+Información de la MT: MEX2 Fase5 Telco2 P,75 UR 35 ",TBD,,
+Procesar,Op-125930,ORIÓN,FIREWALL,FÍSICO,CHECKPOINT,Check Point 16200,Gaia R81.10 take 94,LR202111010697,00:1C:7F:45:E7:20,PCSG01C2Z005,10.50.93.5,,10.50.93.5,MEX2,"Fase5. Rack P, 75",29-30,27-feb-2027,27/2/2027,DEDICADO,KUX RTL,"FW APP Equipo Activo. 
+Información de la MT: MEX2 Fase5 Telco1 O,75 UR 29-30 ",TBD,,
+Procesar,Op-125930,ORIÓN,FIREWALL,FÍSICO,CHECKPOINT,Check Point 16200,Gaia R81.10 take 94,LR202111010662,00:1C:7F:45:E7:4E,PCSG01C2Z006,10.50.93.6,,10.50.93.6,MEX2,"Fase5. Rack O,75",29-30,27-feb-2027,27/2/2027,DEDICADO,KUX RTL,"FW APP Equipo Pasivo.
+Información de la MT: MEX2 Fase5 Telco2 P,75 UR 29-30 ",TBD,,
+Procesar,Op-125930,ORIÓN,FIREWALL,FÍSICO,CHECKPOINT,Smart-1 600-M,Gaia R81.10 take 94,H1WX6L3,B4:96:91:D3:A3:80,PCSG01C2Z007,10.50.93.7,,N/A,MEX2,"Fase5. Rack O,75",25,27-feb-2027,27/2/2027,DEDICADO,KUX RTL,"Información MT:MEX2 Fase5 Telco1 O,75 UR 25",TBD,,
+Procesar,Op-125930,ORIÓN,FIREWALL,FÍSICO,CHECKPOINT,Smart-1 600-M,Gaia R81.10 take 94,72WX6L3,,PCSG01C2Z008,10.50.93.20,,N/A,MEX2,"Fase5. Rack P,75",25,27-feb-2027,27/2/2027,DEDICADO,KUX RTL,"Información MT: MEX2 Fase5 Telco2 P,75 UR 25",TBD,,
+Procesar,Op-125930,ORIÓN,FIREWALL,,CHECKPOINT,,,VIRTUAL,,PCSG02C2Z002,10.50.93.39,,N/A,,,,,30/4/2022,,KUX RTL,No se localizó MT,,,
+Procesar,Op-125930,ORIÓN,FIREWALL,FÍSICO,CHECKPOINT,Check Point 16200,Gaia R81.10 take 94,LR202111010652,00:1C:7F:45:E6:C4,PCSG01C20301,10.60.30.14,,N/A,QRO,"Fase2. Procesar O,15",30-31,27-feb-2027,27/2/2027,DEDICADO,KUX RTL,FW DRP,,,
+Procesar,Op-125930,ORIÓN,FIREWALL,FÍSICO,CHECKPOINT,Smart-1 600-M,Gaia R81.10 take 94,G1WX6L3,B4:96:91:D3:A3:A4,PCSG01C20302,10.60.30.15,,N/A,QRO,"Fase2. Procesar O,15",32,27-feb-2027,27/2/2027,DEDICADO,KUX RTL,,,,
+Procesar,Op-125930,ORIÓN,FIREWALL,FÍSICO,CHECKPOINT,Smart-1 600-M,Gaia R81.10 take 94,82WX6L3,B4:96:91:D3:A5:08,PCSG01C20303,10.60.30.23,,N/A,QRO,"Fase2. Procesar O,15",33,27-feb-2027,27/2/2027,DEDICADO,KUX RTL,Almacenamiento de logs,,,
+Procesar,Op-125930,ORIÓN,DBF,,IMPERVA,,,1618BA2444,,PCSG01C2Z010,10.50.93.10,,N/A,,,,,,,KUX RTL,Los Datos de la MT no coinciden con la infromación de este Doc. ,No identificado,,
+Procesar,Op-125930,ORIÓN,DBF,,IMPERVA,,,1618BA2497,,PCSG01C2Z011,10.50.93.8,,10.50.93.9,,,,,,,KUX RTL,Los Datos de la MT no coinciden con la infromación de este Doc. ,No identificado,,
+Procesar,Op-125930,ORIÓN,DBF,,IMPERVA,,,1618BA2509,,PCSG01C2Z012,10.50.93.9,,10.50.93.8,,,,,,,KUX RTL,Los Datos de la MT no coinciden con la infromación de este Doc. ,No identificado,,
+Procesar,Op-125930,ORIÓN,ANTIVIRUS,,SENTINEL ONE,,,N/A,,N/A,https://usea1-latam.sentinelone.net/login,,N/A,,,,,,,KUX RTL,No se localizó MT,6/2/2024,-171,
+Procesar,Op-125930 / 126595,ORIÓN,ANTIVIRUS,,TREND MICRO,Cloud One Workload Security,,N/A,,N/A,https://cloudone.trendmicro.com/signin,,N/A,,,,,28/4/2023,,KUX RTL,La MT se localizó en la carpeta de la Op-126595,30/6/2026,704,
+Procesar,Op-125930,ORIÓN,WAF,FÍSICO,F5,i5800,14.1.2.6,f5-fqzg-hhnj,,host1.stafe.procesar.com.mx,10.50.93.55,,10.50.93.56,Santa Fe,,,20-abril-2022,perpetua,Cliente,KUX RTL,"No se localizó MT de BDF, se encuentra una de DRA",1/1/2027,889,
+Procesar,Op-125930,ORIÓN,WAF,FÍSICO,F5,i5800,14.1.2.6,f5-xrzt-oedt,,host2.stafe.procesar.com.mx,10.50.93.56,,10.50.93.55,Santa Fe,,,20-abril-2022,perpetua,Cliente,KUX RTL,"No se localizó MT de BDF, se encuentra una de DRA",1/1/2027,889,
+Procesar,Op-125930,ORIÓN,WAF,Virtual,F5,VCMP GUEST,16.1.2,f5-fqzg-hhnj,,internet1.stafe.procesar.com,10.50.93.57,,10.50.93.58,Santa Fe,,,20-abril-2022,perpetua,COMPARTIDO,KUX RTL,"No se localizó MT de BDF, se encuentra una de DRA",,,
+Procesar,Op-125930,ORIÓN,WAF,Virtual,F5,VCMP GUEST,16.1.2,f5-xrzt-oedt,,internet2.stafe.procesar.com,10.50.93.58,,10.50.93.57,Santa Fe,,,20-abril-2022,perpetua,COMPARTIDO,KUX RTL,"No se localizó MT de BDF, se encuentra una de DRA",,,
+Procesar,Op-125930,ORIÓN,WAF,Virtual,F5,VCMP GUEST,16.1.2,f5-fqzg-hhnj,,wan1.stafe.procesar.com,10.50.93.59,,10.50.93.60,Santa Fe,,,20-abril-2022,perpetua,COMPARTIDO,KUX RTL,"No se localizó MT de BDF, se encuentra una de DRA",,,
+Procesar,Op-125930,ORIÓN,WAF,Virtual,F5,VCMP GUEST,16.1.2,f5-xrzt-oedt,,wan2.stafe.procesar.com,10.50.93.60,,10.50.93.59,Santa Fe,,,20-abril-2022,perpetua,COMPARTIDO,KUX RTL,"No se localizó MT de BDF, se encuentra una de DRA",,,
+Procesar,Op-125930,ORIÓN,WAF,Virtual,F5,VCMP GUEST,16.1.2,f5-tseh-okog,,internet1.stafe.procesar.com,10.60.30.18,,Standalone,QRO,QRO1,,30-abril-2026,perpetua,COMPARTIDO,KUX RTL,"No se localizó MT de BDF, se encuentra una de DRA",,,
+Procesar,Op-125930,ORIÓN,WAF,Virtual,F5,VCMP GUEST,16.1.2,f5-tseh-okog,,wan1.stafe.procesar.com,10.60.30.19,,Standalone,QRO,QRO1,,30-abril-2026,perpetua,COMPARTIDO,KUX RTL,"No se localizó MT de BDF, se encuentra una de DRA",,,
+Procesar,Op-125930,ORIÓN,WAF,FÍSICO,F5,,,f5-tseh-okog,,PCSE01C20027,10.60.30.25,,Standalone,QRO,QRO1,,N/A,perpetua,Cliente,KUX RTL,"No se localizó MT de BDF, se encuentra una de DRA",,,
+Toka,Op-134491/ Op-118369,FÉNIX,ANTIMALWARE,Virtual,CROWDSTRIKE,,,,,Antivirus,https://falcon.crowdstrike.com/login/,,N/A,Cloud,,,,,Dedicado,No tiene,"No se encontró MT, validar las Op encontradas",,,
+Toka,Op-90538,FÉNIX,WAF,Virtual,CLOUDFLARE,CLOUDFLARE,,,,WAF,https://dash.cloudflare.com/login,,N/A,Cloud,,,,,Dedicado,No tiene,El contrato vence el 1 de agosto de 2025. No se encontró SOW,No identificado,,
